@@ -1,0 +1,1 @@
+This is just a self-taught, self-learning on how to build a Wordpress theme.
